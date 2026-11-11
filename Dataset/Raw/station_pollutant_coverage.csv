@@ -1,0 +1,210 @@
+selected_city,station_id,station_name,parameter_name,records,unique_dates,first_date,last_date,total_observations,avg_daily_mean,expected_dates,missing_dates,coverage_status
+Bengaluru,site_1553,"Bapuji Nagar, Bengaluru - KSPCB",PM10,31,31,2024-01-01,2024-01-31,714,101.39585028864649,31,0,Complete
+Bengaluru,site_1553,"Bapuji Nagar, Bengaluru - KSPCB",PM2.5,31,31,2024-01-01,2024-01-31,691,56.639099282183864,31,0,Complete
+Bengaluru,site_1554,"Hebbal, Bengaluru - KSPCB",PM10,31,31,2024-01-01,2024-01-31,717,89.12879204129204,31,0,Complete
+Bengaluru,site_1554,"Hebbal, Bengaluru - KSPCB",PM2.5,31,31,2024-01-01,2024-01-31,719,51.92018841373682,31,0,Complete
+Bengaluru,site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",PM10,31,31,2024-01-01,2024-01-31,738,79.22590616618687,31,0,Complete
+Bengaluru,site_1555,"Hombegowda Nagar, Bengaluru - KSPCB",PM2.5,31,31,2024-01-01,2024-01-31,738,31.682394503088023,31,0,Complete
+Bengaluru,site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",PM10,30,30,2024-01-01,2024-01-31,697,121.20777058629777,31,1,Incomplete
+Bengaluru,site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB",PM2.5,30,30,2024-01-01,2024-01-31,697,61.25330255453082,31,1,Incomplete
+Bengaluru,site_1558,"Silk Board, Bengaluru - KSPCB",PM10,31,31,2024-01-01,2024-01-31,711,99.82176459293395,31,0,Complete
+Bengaluru,site_1558,"Silk Board, Bengaluru - KSPCB",PM2.5,31,31,2024-01-01,2024-01-31,744,76.84206989247315,31,0,Complete
+Bengaluru,site_162,"BTM Layout, Bengaluru - CPCB",PM10,31,31,2024-01-01,2024-01-31,725,74.26567541470979,31,0,Complete
+Bengaluru,site_162,"BTM Layout, Bengaluru - CPCB",PM2.5,29,29,2024-01-01,2024-01-31,658,17.808898542782607,31,2,Incomplete
+Bengaluru,site_163,"Peenya, Bengaluru - CPCB",PM10,31,31,2024-01-01,2024-01-31,742,79.73855694037145,31,0,Complete
+Bengaluru,site_163,"Peenya, Bengaluru - CPCB",PM2.5,31,31,2024-01-01,2024-01-31,740,34.179267393429384,31,0,Complete
+Bengaluru,site_5678,"RVCE-Mailasandra, Bengaluru - KSPCB",PM10,31,31,2024-01-01,2024-01-31,733,150.77517679371888,31,0,Complete
+Bengaluru,site_5678,"RVCE-Mailasandra, Bengaluru - KSPCB",PM2.5,31,31,2024-01-01,2024-01-31,732,48.761369592717884,31,0,Complete
+Bengaluru,site_5681,"Kasturi Nagar, Bengaluru - KSPCB",PM10,31,31,2024-01-01,2024-01-31,736,140.36419247827908,31,0,Complete
+Bengaluru,site_5681,"Kasturi Nagar, Bengaluru - KSPCB",PM2.5,31,31,2024-01-01,2024-01-31,740,56.23915881920791,31,0,Complete
+Bengaluru,site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",PM10,23,23,2024-01-01,2024-01-31,516,83.11132977351637,31,8,Incomplete
+Bengaluru,site_5686,"Shivapura_Peenya, Bengaluru - KSPCB",PM2.5,23,23,2024-01-01,2024-01-31,458,26.64933769609408,31,8,Incomplete
+Bengaluru,site_5729,"Jigani, Bengaluru - KSPCB",PM10,31,31,2024-01-01,2024-01-31,736,98.55739912448469,31,0,Complete
+Bengaluru,site_5729,"Jigani, Bengaluru - KSPCB",PM2.5,31,31,2024-01-01,2024-01-31,734,40.12949721620129,31,0,Complete
+Delhi,site_103,"CRRI Mathura Road, Delhi - IMD",PM10,31,31,2024-01-01,2024-01-31,694,252.3903803140126,31,0,Complete
+Delhi,site_103,"CRRI Mathura Road, Delhi - IMD",PM2.5,31,31,2024-01-01,2024-01-31,744,174.30575268817205,31,0,Complete
+Delhi,site_104,"Burari Crossing, Delhi - IMD",PM10,31,31,2024-01-01,2024-01-31,744,328.08681451612904,31,0,Complete
+Delhi,site_104,"Burari Crossing, Delhi - IMD",PM2.5,31,31,2024-01-01,2024-01-31,744,183.95134408602158,31,0,Complete
+Delhi,site_105,"North Campus, DU, Delhi - IMD",PM10,31,31,2024-01-01,2024-01-31,744,312.2392338709677,31,0,Complete
+Delhi,site_105,"North Campus, DU, Delhi - IMD",PM2.5,31,31,2024-01-01,2024-01-31,744,199.67778225806455,31,0,Complete
+Delhi,site_106,"IGI Airport (T3), Delhi - IMD",PM10,31,31,2024-01-01,2024-01-31,744,296.78287634408605,31,0,Complete
+Delhi,site_106,"IGI Airport (T3), Delhi - IMD",PM2.5,31,31,2024-01-01,2024-01-31,744,181.71610215053764,31,0,Complete
+Delhi,site_107,"Pusa, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,740,248.576997311828,31,0,Complete
+Delhi,site_107,"Pusa, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,740,160.29611290322578,31,0,Complete
+Delhi,site_108,"Aya Nagar, Delhi - IMD",PM10,31,31,2024-01-01,2024-01-31,733,288.5314464252028,31,0,Complete
+Delhi,site_108,"Aya Nagar, Delhi - IMD",PM2.5,31,31,2024-01-01,2024-01-31,719,151.34124970459646,31,0,Complete
+Delhi,site_109,"Lodhi Road, Delhi - IMD",PM10,31,31,2024-01-01,2024-01-31,735,298.1565237224985,31,0,Complete
+Delhi,site_109,"Lodhi Road, Delhi - IMD",PM2.5,31,31,2024-01-01,2024-01-31,722,173.2780805233803,31,0,Complete
+Delhi,site_113,"Shadipur, Delhi - CPCB",PM10,31,31,2024-01-01,2024-01-31,723,394.74756034067065,31,0,Complete
+Delhi,site_113,"Shadipur, Delhi - CPCB",PM2.5,31,31,2024-01-01,2024-01-31,732,217.01262452717924,31,0,Complete
+Delhi,site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",PM10,31,31,2024-01-01,2024-01-31,716,258.08297397563086,31,0,Complete
+Delhi,site_114,"IHBAS, Dilshad Garden, Delhi - CPCB",PM2.5,31,31,2024-01-01,2024-01-31,723,132.3708208386206,31,0,Complete
+Delhi,site_115,"NSIT Dwarka, Delhi - CPCB",PM10,31,31,2024-01-01,2024-01-31,700,314.4203385884253,31,0,Complete
+Delhi,site_115,"NSIT Dwarka, Delhi - CPCB",PM2.5,31,31,2024-01-01,2024-01-31,713,194.49572129833703,31,0,Complete
+Delhi,site_117,"ITO, Delhi - CPCB",PM10,31,31,2024-01-01,2024-01-31,709,253.22709306752154,31,0,Complete
+Delhi,site_117,"ITO, Delhi - CPCB",PM2.5,31,31,2024-01-01,2024-01-31,709,187.94450327255726,31,0,Complete
+Delhi,site_118,"DTU, Delhi - CPCB",PM10,31,31,2024-01-01,2024-01-31,728,346.4382624925024,31,0,Complete
+Delhi,site_118,"DTU, Delhi - CPCB",PM2.5,31,31,2024-01-01,2024-01-31,739,92.68844431340048,31,0,Complete
+Delhi,site_119,"Sirifort, Delhi - CPCB",PM10,31,31,2024-01-01,2024-01-31,725,360.50547912624194,31,0,Complete
+Delhi,site_119,"Sirifort, Delhi - CPCB",PM2.5,31,31,2024-01-01,2024-01-31,662,227.2331963941512,31,0,Complete
+Delhi,site_122,"Mandir Marg, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,738,320.4582748948107,31,0,Complete
+Delhi,site_122,"Mandir Marg, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,738,211.31232515194014,31,0,Complete
+Delhi,site_124,"R K Puram, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,739,362.64990942028993,31,0,Complete
+Delhi,site_124,"R K Puram, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,742,250.4450452101662,31,0,Complete
+Delhi,site_125,"Punjabi Bagh, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,740,346.519764173998,31,0,Complete
+Delhi,site_125,"Punjabi Bagh, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,742,249.65206378299123,31,0,Complete
+Delhi,site_1420,"Ashok Vihar, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,740,371.54383515327584,31,0,Complete
+Delhi,site_1420,"Ashok Vihar, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,741,184.74174347158217,31,0,Complete
+Delhi,site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,736,340.23295142039984,31,0,Complete
+Delhi,site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,743,223.43840579710144,31,0,Complete
+Delhi,site_1422,"Dwarka-Sector 8, Delhi - DPCC ",PM10,31,31,2024-01-01,2024-01-31,743,353.0638055165966,31,0,Complete
+Delhi,site_1422,"Dwarka-Sector 8, Delhi - DPCC ",PM2.5,31,31,2024-01-01,2024-01-31,744,234.77833333333334,31,0,Complete
+Delhi,site_1423,"Jahangirpuri, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,739,423.77563873305286,31,0,Complete
+Delhi,site_1423,"Jahangirpuri, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,744,252.25126344086024,31,0,Complete
+Delhi,site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,744,320.24764784946245,31,0,Complete
+Delhi,site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,744,210.33950268817202,31,0,Complete
+Delhi,site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,719,309.59373347024643,31,0,Complete
+Delhi,site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,720,218.60364380406264,31,0,Complete
+Delhi,site_1426,"Narela, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,742,321.3038086510264,31,0,Complete
+Delhi,site_1426,"Narela, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,743,199.63111208508653,31,0,Complete
+Delhi,site_1427,"Najafgarh, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,657,220.04858529132343,31,0,Complete
+Delhi,site_1427,"Najafgarh, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,659,163.07902771898284,31,0,Complete
+Delhi,site_1428,"Okhla Phase-2, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,736,371.3508003337427,31,0,Complete
+Delhi,site_1428,"Okhla Phase-2, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,734,240.8678766824143,31,0,Complete
+Delhi,site_1429,"Nehru Nagar, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,728,391.153506994408,31,0,Complete
+Delhi,site_1429,"Nehru Nagar, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,735,273.0301932733306,31,0,Complete
+Delhi,site_1430,"Rohini, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,712,335.786485826002,31,0,Complete
+Delhi,site_1430,"Rohini, Delhi - DPCC",PM2.5,30,30,2024-01-01,2024-01-31,692,237.1678158369409,31,1,Incomplete
+Delhi,site_1431,"Patparganj, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,726,388.8422270719625,31,0,Complete
+Delhi,site_1431,"Patparganj, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,736,238.33056940371452,31,0,Complete
+Delhi,site_1432,"Sonia Vihar, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,744,346.3558467741935,31,0,Complete
+Delhi,site_1432,"Sonia Vihar, Delhi - DPCC",PM2.5,28,28,2024-01-01,2024-01-31,649,215.72338598901098,31,3,Incomplete
+Delhi,site_1434,"Wazirpur, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,739,406.72617440180204,31,0,Complete
+Delhi,site_1434,"Wazirpur, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,742,249.24906907433376,31,0,Complete
+Delhi,site_1435,"Vivek Vihar, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,735,374.5985457503729,31,0,Complete
+Delhi,site_1435,"Vivek Vihar, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,742,248.07156323048156,31,0,Complete
+Delhi,site_1560,"Bawana, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,744,332.20104838709676,31,0,Complete
+Delhi,site_1560,"Bawana, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,723,206.7852310294894,31,0,Complete
+Delhi,site_1561,"Mundka, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,742,346.36789036933146,31,0,Complete
+Delhi,site_1561,"Mundka, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,721,241.19629597552986,31,0,Complete
+Delhi,site_1562,"Sri Aurobindo Marg, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,743,327.26756603553065,31,0,Complete
+Delhi,site_1562,"Sri Aurobindo Marg, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,743,215.33764317438056,31,0,Complete
+Delhi,site_1563,"Pusa, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,719,393.4302171951472,31,0,Complete
+Delhi,site_1563,"Pusa, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,727,222.1521727197533,31,0,Complete
+Delhi,site_301,"Anand Vihar, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,738,404.5282872503841,31,0,Complete
+Delhi,site_301,"Anand Vihar, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,737,253.48271697388634,31,0,Complete
+Delhi,site_5024,"Alipur, Delhi - DPCC",PM10,31,31,2024-01-01,2024-01-31,743,238.79492110799438,31,0,Complete
+Delhi,site_5024,"Alipur, Delhi - DPCC",PM2.5,31,31,2024-01-01,2024-01-31,740,167.42956454952244,31,0,Complete
+Delhi,site_5395,"Lodhi Road, Delhi - IMD",PM10,21,21,2024-01-03,2024-01-31,327,158.53457956596063,31,10,Incomplete
+Delhi,site_5395,"Lodhi Road, Delhi - IMD",PM2.5,21,21,2024-01-03,2024-01-31,328,95.24370641565805,31,10,Incomplete
+Gurugram,site_146,"Vikas Sadan, Gurugram - HSPCB",PM2.5,31,31,2024-01-01,2024-01-31,729,89.0684271296787,31,0,Complete
+Gurugram,site_5025,"NISE Gwal Pahari, Gurugram - IMD",PM10,26,26,2024-01-01,2024-01-31,587,284.6155309383599,31,5,Incomplete
+Gurugram,site_5025,"NISE Gwal Pahari, Gurugram - IMD",PM2.5,26,26,2024-01-01,2024-01-31,575,141.65572408760195,31,5,Incomplete
+Gurugram,site_5344,"Teri Gram, Gurugram - HSPCB",PM10,31,31,2024-01-01,2024-01-31,706,226.5644847176273,31,0,Complete
+Gurugram,site_5344,"Teri Gram, Gurugram - HSPCB",PM2.5,31,31,2024-01-01,2024-01-31,706,126.66844229498795,31,0,Complete
+Gurugram,site_5345,"Sector-51, Gurugram - HSPCB",PM10,31,31,2024-01-01,2024-01-31,732,246.98363707943832,31,0,Complete
+Gurugram,site_5345,"Sector-51, Gurugram - HSPCB",PM2.5,31,31,2024-01-01,2024-01-31,728,167.48693493024285,31,0,Complete
+Hyderabad,site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",PM10,31,31,2024-01-01,2024-01-31,667,108.38678658462517,31,0,Complete
+Hyderabad,site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",PM2.5,31,31,2024-01-01,2024-01-31,547,59.89230677637247,31,0,Complete
+Hyderabad,site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",PM10,31,31,2024-01-01,2024-01-31,742,91.96964703132303,31,0,Complete
+Hyderabad,site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",PM2.5,31,31,2024-01-01,2024-01-31,742,49.92902232351566,31,0,Complete
+Hyderabad,site_262,"Central University, Hyderabad - TSPCB",PM10,30,30,2024-01-01,2024-01-31,623,80.51649482562526,31,1,Incomplete
+Hyderabad,site_262,"Central University, Hyderabad - TSPCB",PM2.5,31,31,2024-01-01,2024-01-31,735,34.37570158861709,31,0,Complete
+Hyderabad,site_298,"Zoo Park, Hyderabad - TSPCB",PM10,31,31,2024-01-01,2024-01-31,704,103.17800930563904,31,0,Complete
+Hyderabad,site_298,"Zoo Park, Hyderabad - TSPCB",PM2.5,31,31,2024-01-01,2024-01-31,735,56.2286885033411,31,0,Complete
+Hyderabad,site_5595,"New Malakpet, Hyderabad - TSPCB",PM10,29,29,2024-01-01,2024-01-31,665,66.57814513360204,31,2,Incomplete
+Hyderabad,site_5595,"New Malakpet, Hyderabad - TSPCB",PM2.5,29,29,2024-01-01,2024-01-31,665,24.244370894098406,31,2,Incomplete
+Hyderabad,site_5596,"ECIL Kapra, Hyderabad - TSPCB",PM10,30,30,2024-01-01,2024-01-31,666,76.91634154040403,31,1,Incomplete
+Hyderabad,site_5596,"ECIL Kapra, Hyderabad - TSPCB",PM2.5,30,30,2024-01-01,2024-01-31,666,32.93764814814815,31,1,Incomplete
+Hyderabad,site_5597,"IITH Kandi, Hyderabad - TSPCB",PM10,26,26,2024-01-01,2024-01-31,450,72.99774237775308,31,5,Incomplete
+Hyderabad,site_5597,"IITH Kandi, Hyderabad - TSPCB",PM2.5,26,26,2024-01-01,2024-01-31,450,15.078901132001317,31,5,Incomplete
+Hyderabad,site_5598,"Somajiguda, Hyderabad - TSPCB",PM10,25,25,2024-01-01,2024-01-31,424,75.16209304172952,31,6,Incomplete
+Hyderabad,site_5598,"Somajiguda, Hyderabad - TSPCB",PM2.5,25,25,2024-01-01,2024-01-31,424,35.91541418552036,31,6,Incomplete
+Hyderabad,site_5599,"Kompally Municipal Office, Hyderabad - TSPCB",PM10,31,31,2024-01-01,2024-01-31,558,58.218194335370626,31,0,Complete
+Hyderabad,site_5599,"Kompally Municipal Office, Hyderabad - TSPCB",PM2.5,31,31,2024-01-01,2024-01-31,558,31.896060002400294,31,0,Complete
+Hyderabad,site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",PM10,31,31,2024-01-01,2024-01-31,575,104.06200600500094,31,0,Complete
+Hyderabad,site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",PM2.5,31,31,2024-01-01,2024-01-31,575,39.412375626885975,31,0,Complete
+Hyderabad,site_5602,"Ramachandrapuram, Hyderabad - TSPCB",PM10,30,30,2024-01-01,2024-01-31,615,74.15727205139633,31,1,Incomplete
+Hyderabad,site_5602,"Ramachandrapuram, Hyderabad - TSPCB",PM2.5,30,30,2024-01-01,2024-01-31,615,22.163209426194726,31,1,Incomplete
+Hyderabad,site_5604,"Kokapet, Hyderabad - TSPCB",PM10,29,29,2024-01-01,2024-01-31,540,74.02056479495937,31,2,Incomplete
+Hyderabad,site_5604,"Kokapet, Hyderabad - TSPCB",PM2.5,29,29,2024-01-01,2024-01-31,540,33.28234967256643,31,2,Incomplete
+Jaipur,site_134,"Police Commissionerate, Jaipur - RSPCB",PM10,31,31,2024-01-01,2024-01-31,688,207.2968104481458,31,0,Complete
+Jaipur,site_134,"Police Commissionerate, Jaipur - RSPCB",PM2.5,31,31,2024-01-01,2024-01-31,674,100.58929991001887,31,0,Complete
+Jaipur,site_1393,"Adarsh Nagar, Jaipur - RSPCB",PM10,31,31,2024-01-01,2024-01-31,722,132.19090564770974,31,0,Complete
+Jaipur,site_1393,"Adarsh Nagar, Jaipur - RSPCB",PM2.5,31,31,2024-01-01,2024-01-31,732,85.69905759154356,31,0,Complete
+Jaipur,site_1396,"Shastri Nagar, Jaipur - RSPCB",PM10,31,31,2024-01-01,2024-01-31,707,152.90852090613183,31,0,Complete
+Jaipur,site_1396,"Shastri Nagar, Jaipur - RSPCB",PM2.5,31,31,2024-01-01,2024-01-31,702,95.24743554370755,31,0,Complete
+Jaipur,site_5725,"Mansarovar Sector-12, Jaipur - RSPCB",PM10,31,31,2024-01-01,2024-01-31,719,240.72242014413825,31,0,Complete
+Jaipur,site_5725,"Mansarovar Sector-12, Jaipur - RSPCB",PM2.5,31,31,2024-01-01,2024-01-31,704,102.46642889018415,31,0,Complete
+Jaipur,site_5727,"Sector-2 Murlipura, Jaipur - RSPCB",PM10,31,31,2024-01-01,2024-01-31,740,240.7918817204301,31,0,Complete
+Jaipur,site_5727,"Sector-2 Murlipura, Jaipur - RSPCB",PM2.5,31,31,2024-01-01,2024-01-31,720,138.4476088360564,31,0,Complete
+Jaipur,site_5728,"RIICO Sitapura, Jaipur - RSPCB",PM10,31,31,2024-01-01,2024-01-31,741,214.7874054358451,31,0,Complete
+Jaipur,site_5728,"RIICO Sitapura, Jaipur - RSPCB",PM2.5,31,31,2024-01-01,2024-01-31,741,132.00446635003613,31,0,Complete
+Mumbai,site_5102,"Malad West, Mumbai - IITM",PM10,31,31,2024-01-01,2024-01-31,665,91.5425899373258,31,0,Complete
+Mumbai,site_5102,"Malad West, Mumbai - IITM",PM2.5,31,31,2024-01-01,2024-01-31,665,27.32429370853276,31,0,Complete
+Mumbai,site_5103,"Nerul, Navi Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,697,135.11858250456882,31,0,Complete
+Mumbai,site_5103,"Nerul, Navi Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,725,54.57031118513325,31,0,Complete
+Mumbai,site_5104,"Kurla, Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,711,93.55785326536484,31,0,Complete
+Mumbai,site_5104,"Kurla, Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,711,56.14818711115906,31,0,Complete
+Mumbai,site_5106,"Vile Parle West, Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,648,97.90068095400004,31,0,Complete
+Mumbai,site_5106,"Vile Parle West, Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,725,44.45128522249139,31,0,Complete
+Mumbai,site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,716,100.39522029041757,31,0,Complete
+Mumbai,site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,721,24.289582350503633,31,0,Complete
+Mumbai,site_5112,"Powai, Mumbai - MPCB",PM10,29,29,2024-01-01,2024-01-31,656,117.96013917428539,31,2,Incomplete
+Mumbai,site_5112,"Powai, Mumbai - MPCB",PM2.5,29,29,2024-01-01,2024-01-31,657,40.264969320486806,31,2,Incomplete
+Mumbai,site_5113,"Borivali East, Mumbai - IITM",PM10,30,30,2024-01-01,2024-01-31,697,85.0956544401819,31,1,Incomplete
+Mumbai,site_5113,"Borivali East, Mumbai - IITM",PM2.5,31,31,2024-01-01,2024-01-31,743,39.248688639551204,31,0,Complete
+Mumbai,site_5114,"Mahape, Navi Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,630,141.39692374815183,31,0,Complete
+Mumbai,site_5114,"Mahape, Navi Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,649,41.580362190338164,31,0,Complete
+Mumbai,site_5115,Worli Mumbai,PM10,31,31,2024-01-01,2024-01-31,670,111.55385193851325,31,0,Complete
+Mumbai,site_5115,Worli Mumbai,PM2.5,31,31,2024-01-01,2024-01-31,739,36.15427262253875,31,0,Complete
+Mumbai,site_5119,"Sion, Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,721,129.14302103786818,31,0,Complete
+Mumbai,site_5119,"Sion, Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,721,49.5668708508649,31,0,Complete
+Mumbai,site_5120,"Colaba, Mumbai - MPCB",PM10,30,30,2024-01-01,2024-01-31,676,88.09564873089872,31,1,Incomplete
+Mumbai,site_5120,"Colaba, Mumbai - MPCB",PM2.5,29,29,2024-01-01,2024-01-31,649,45.139877394636024,31,2,Incomplete
+Mumbai,site_5394,"Mazgaon, Mumbai - IITM",PM10,31,31,2024-01-01,2024-01-31,743,130.02793361383823,31,0,Complete
+Mumbai,site_5394,"Mazgaon, Mumbai - IITM",PM2.5,31,31,2024-01-01,2024-01-31,741,68.1493337173579,31,0,Complete
+Mumbai,site_5396,"Deonar, Mumbai - IITM",PM10,9,9,2024-01-20,2024-01-29,179,274.25634259259255,31,22,Incomplete
+Mumbai,site_5396,"Deonar, Mumbai - IITM",PM2.5,9,9,2024-01-20,2024-01-29,178,133.894375,31,22,Incomplete
+Mumbai,site_5397,"Khindipada-Bhandup West, Mumbai - IITM",PM10,31,31,2024-01-01,2024-01-31,735,107.20045382669197,31,0,Complete
+Mumbai,site_5397,"Khindipada-Bhandup West, Mumbai - IITM",PM2.5,31,31,2024-01-01,2024-01-31,736,53.27756190941674,31,0,Complete
+Mumbai,site_5398,"Navy Nagar-Colaba, Mumbai - IITM",PM10,30,30,2024-01-01,2024-01-31,693,107.96347825157933,31,1,Incomplete
+Mumbai,site_5398,"Navy Nagar-Colaba, Mumbai - IITM",PM2.5,30,30,2024-01-01,2024-01-31,693,52.38720238758825,31,1,Incomplete
+Mumbai,site_5399,"Chakala-Andheri East, Mumbai - IITM",PM10,31,31,2024-01-01,2024-01-31,702,110.30819709136576,31,0,Complete
+Mumbai,site_5399,"Chakala-Andheri East, Mumbai - IITM",PM2.5,24,24,2024-01-01,2024-01-31,543,49.45292219065656,31,7,Incomplete
+Mumbai,site_5400,"Borivali East, Mumbai - IITM",PM10,31,31,2024-01-01,2024-01-31,644,89.07765754659634,31,0,Complete
+Mumbai,site_5400,"Borivali East, Mumbai - IITM",PM2.5,31,31,2024-01-01,2024-01-31,672,47.32728198014299,31,0,Complete
+Mumbai,site_5402,"Malad West, Mumbai - IITM",PM10,22,22,2024-01-01,2024-01-23,449,121.42817148202674,31,9,Incomplete
+Mumbai,site_5402,"Malad West, Mumbai - IITM",PM2.5,28,28,2024-01-01,2024-01-31,588,64.82297851936937,31,3,Incomplete
+Mumbai,site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",PM10,22,22,2024-01-01,2024-01-30,363,146.29155720547567,31,9,Incomplete
+Mumbai,site_5403,"Siddharth Nagar-Worli, Mumbai - IITM",PM2.5,22,22,2024-01-01,2024-01-30,367,76.86197470946928,31,9,Incomplete
+Mumbai,site_5412,"Kandivali East, Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,741,130.75835787751285,31,0,Complete
+Mumbai,site_5412,"Kandivali East, Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,741,29.910397063198605,31,0,Complete
+Mumbai,site_5413,"Mulund West, Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,709,87.35236372120535,31,0,Complete
+Mumbai,site_5413,"Mulund West, Mumbai - MPCB",PM2.5,30,30,2024-01-01,2024-01-31,668,37.43819897123101,31,1,Incomplete
+Mumbai,site_5799,"Sector-2E Kalamboli, Navi Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,704,176.43454207499067,31,0,Complete
+Mumbai,site_5799,"Sector-2E Kalamboli, Navi Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,687,79.8851152659316,31,0,Complete
+Mumbai,site_5803,"Tondare-Taloja, Navi Mumbai - MPCB",PM10,29,29,2024-01-01,2024-01-31,646,146.15577611747614,31,2,Incomplete
+Mumbai,site_5803,"Tondare-Taloja, Navi Mumbai - MPCB",PM2.5,29,29,2024-01-01,2024-01-31,647,73.74687825992466,31,2,Incomplete
+Mumbai,site_5805,"Kopripada-Vashi, Navi Mumbai - MPCB",PM10,29,29,2024-01-01,2024-01-31,655,124.27928662761921,31,2,Incomplete
+Mumbai,site_5805,"Kopripada-Vashi, Navi Mumbai - MPCB",PM2.5,29,29,2024-01-01,2024-01-31,651,65.6733735494693,31,2,Incomplete
+Mumbai,site_5807,"Mindspace-Malad West, Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,722,108.10503800349402,31,0,Complete
+Mumbai,site_5807,"Mindspace-Malad West, Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,703,64.06115166026919,31,0,Complete
+Mumbai,site_5810,"Bandra Kurla Complex, Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,740,144.50279814271747,31,0,Complete
+Mumbai,site_5810,"Bandra Kurla Complex, Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,740,66.6035398338221,31,0,Complete
+Mumbai,site_5811,"Chembur, Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,736,137.6514977345985,31,0,Complete
+Mumbai,site_5811,"Chembur, Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,735,65.41998829551886,31,0,Complete
+Mumbai,site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,703,123.48593084352191,31,0,Complete
+Mumbai,site_5814,"Kherwadi_Bandra East, Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,703,61.41693854204947,31,0,Complete
+Mumbai,site_5815,"Sanpada, Navi Mumbai - MPCB",PM10,31,31,2024-01-01,2024-01-31,738,136.5821075587573,31,0,Complete
+Mumbai,site_5815,"Sanpada, Navi Mumbai - MPCB",PM2.5,31,31,2024-01-01,2024-01-31,735,64.59789556808316,31,0,Complete
+Mumbai,site_5960,"Byculla, Mumbai - BMC",PM10,31,31,2024-01-01,2024-01-31,722,92.25900167752935,31,0,Complete
+Mumbai,site_5960,"Byculla, Mumbai - BMC",PM2.5,31,31,2024-01-01,2024-01-31,722,51.785323721915134,31,0,Complete
+Mumbai,site_5961,"Shivaji Nagar, Mumbai - BMC",PM10,15,15,2024-01-01,2024-01-31,341,161.02243855218856,31,16,Incomplete
+Mumbai,site_5961,"Shivaji Nagar, Mumbai - BMC",PM2.5,15,15,2024-01-01,2024-01-31,341,67.20926599326599,31,16,Incomplete
+Mumbai,site_5962,"Kandivali West, Mumbai - BMC",PM10,24,24,2024-01-01,2024-01-31,441,101.44588921253866,31,7,Incomplete
+Mumbai,site_5962,"Kandivali West, Mumbai - BMC",PM2.5,24,24,2024-01-01,2024-01-31,452,57.71522819013716,31,7,Incomplete
+Mumbai,site_5963,"Sewri, Mumbai - BMC",PM10,31,31,2024-01-01,2024-01-31,742,120.78719086021506,31,0,Complete
+Mumbai,site_5963,"Sewri, Mumbai - BMC",PM2.5,31,31,2024-01-01,2024-01-31,741,63.86766321044546,31,0,Complete
+Mumbai,site_5964,"Ghatkopar, Mumbai - BMC",PM10,31,31,2024-01-01,2024-01-31,742,108.92021914446005,31,0,Complete
+Mumbai,site_5964,"Ghatkopar, Mumbai - BMC",PM2.5,30,30,2024-01-01,2024-01-31,698,55.44024577748719,31,1,Incomplete

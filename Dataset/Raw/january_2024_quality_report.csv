@@ -1,0 +1,3 @@
+﻿station_id,station_name,pollutant,expected_days,records_returned,unique_dates,missing_dates,total_observations,average_of_daily_means,minimum_daily_min,maximum_daily_max
+site_1393,"Adarsh Nagar, Jaipur - RSPCB",PM2.5,31,31,31,0,732,85.69905759154359,0.2,220.45
+site_1393,"Adarsh Nagar, Jaipur - RSPCB",PM10,31,31,31,0,722,132.19090564770974,36.35,690.5

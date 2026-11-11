@@ -1,0 +1,110 @@
+station_id,selected_city,station_name,status,records,error,extracted_at
+site_5024,Delhi,"Alipur, Delhi - DPCC",success,62,,2026-11-10T10:38:03.951686
+site_301,Delhi,"Anand Vihar, Delhi - DPCC",success,62,,2026-11-10T10:38:07.126277
+site_1420,Delhi,"Ashok Vihar, Delhi - DPCC",success,62,,2026-11-10T10:38:09.682896
+site_108,Delhi,"Aya Nagar, Delhi - IMD",success,62,,2026-11-10T10:38:12.308317
+site_1560,Delhi,"Bawana, Delhi - DPCC",success,62,,2026-11-10T10:38:15.402846
+site_104,Delhi,"Burari Crossing, Delhi - IMD",success,62,,2026-11-10T10:38:17.850963
+site_103,Delhi,"CRRI Mathura Road, Delhi - IMD",success,62,,2026-11-10T10:38:20.666191
+site_5393,Delhi,"Chandni Chowk, Delhi - IITM",no_data,0,API returned no records.,2026-11-10T10:38:23.364818
+site_118,Delhi,"DTU, Delhi - CPCB",success,62,,2026-11-10T10:38:25.765111
+site_1421,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",success,62,,2026-11-10T10:38:28.723514
+site_1422,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",success,62,,2026-11-10T10:38:31.603242
+site_106,Delhi,"IGI Airport (T3), Delhi - IMD",success,62,,2026-11-10T10:38:34.056007
+site_114,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",success,62,,2026-11-10T10:38:36.501201
+site_117,Delhi,"ITO, Delhi - CPCB",success,62,,2026-11-10T10:38:39.371148
+site_1423,Delhi,"Jahangirpuri, Delhi - DPCC",success,62,,2026-11-10T10:38:41.711611
+site_1424,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",success,62,,2026-11-10T10:38:44.205839
+site_5395,Delhi,"Lodhi Road, Delhi - IMD",success,42,,2026-11-10T10:38:47.236573
+site_109,Delhi,"Lodhi Road, Delhi - IMD",success,62,,2026-11-10T10:38:49.959510
+site_1425,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",success,62,,2026-11-10T10:38:52.882673
+site_122,Delhi,"Mandir Marg, Delhi - DPCC",success,62,,2026-11-10T10:38:55.638610
+site_1561,Delhi,"Mundka, Delhi - DPCC",success,62,,2026-11-10T10:38:58.665255
+site_115,Delhi,"NSIT Dwarka, Delhi - CPCB",success,62,,2026-11-10T10:39:01.648452
+site_1427,Delhi,"Najafgarh, Delhi - DPCC",success,62,,2026-11-10T10:39:04.578047
+site_1426,Delhi,"Narela, Delhi - DPCC",success,62,,2026-11-10T10:39:07.030713
+site_1429,Delhi,"Nehru Nagar, Delhi - DPCC",success,62,,2026-11-10T10:39:09.451266
+site_105,Delhi,"North Campus, DU, Delhi - IMD",success,62,,2026-11-10T10:39:12.425688
+site_1428,Delhi,"Okhla Phase-2, Delhi - DPCC",success,62,,2026-11-10T10:39:15.008468
+site_1431,Delhi,"Patparganj, Delhi - DPCC",success,62,,2026-11-10T10:39:17.985620
+site_125,Delhi,"Punjabi Bagh, Delhi - DPCC",success,62,,2026-11-10T10:39:20.466375
+site_107,Delhi,"Pusa, Delhi - DPCC",success,62,,2026-11-10T10:39:23.230908
+site_1563,Delhi,"Pusa, Delhi - DPCC",success,62,,2026-11-10T10:39:26.159963
+site_124,Delhi,"R K Puram, Delhi - DPCC",success,62,,2026-11-10T10:39:28.548023
+site_1430,Delhi,"Rohini, Delhi - DPCC",success,61,,2026-11-10T10:39:31.439827
+site_113,Delhi,"Shadipur, Delhi - CPCB",success,62,,2026-11-10T10:39:34.213641
+site_119,Delhi,"Sirifort, Delhi - CPCB",success,62,,2026-11-10T10:39:36.669566
+site_1432,Delhi,"Sonia Vihar, Delhi - DPCC",success,59,,2026-11-10T10:39:39.639964
+site_1562,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",success,62,,2026-11-10T10:39:42.007499
+site_1435,Delhi,"Vivek Vihar, Delhi - DPCC",success,62,,2026-11-10T10:39:44.817648
+site_1434,Delhi,"Wazirpur, Delhi - DPCC",success,62,,2026-11-10T10:39:47.176584
+site_5025,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",success,52,,2026-11-10T10:39:49.850061
+site_5345,Gurugram,"Sector-51, Gurugram - HSPCB",success,62,,2026-11-10T10:39:52.228207
+site_5344,Gurugram,"Teri Gram, Gurugram - HSPCB",success,62,,2026-11-10T10:39:54.810387
+site_146,Gurugram,"Vikas Sadan, Gurugram - HSPCB",success,31,,2026-11-10T10:39:57.373427
+site_162,Bengaluru,"BTM Layout, Bengaluru - CPCB",success,60,,2026-11-10T10:39:59.879102
+site_164,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",no_data,0,API returned no records.,2026-11-10T10:40:02.828851
+site_1553,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",success,62,,2026-11-10T10:40:05.726201
+site_1554,Bengaluru,"Hebbal, Bengaluru - KSPCB",success,62,,2026-11-10T10:40:08.576109
+site_1555,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",success,62,,2026-11-10T10:40:11.504248
+site_1556,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",success,60,,2026-11-10T10:40:14.019046
+site_5729,Bengaluru,"Jigani, Bengaluru - KSPCB",success,62,,2026-11-10T10:40:16.893129
+site_5681,Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",success,62,,2026-11-10T10:40:19.990471
+site_163,Bengaluru,"Peenya, Bengaluru - CPCB",success,62,,2026-11-10T10:40:22.382653
+site_5678,Bengaluru,"RVCE-Mailasandra, Bengaluru - KSPCB",success,62,,2026-11-10T10:40:24.869847
+site_5686,Bengaluru,"Shivapura_Peenya, Bengaluru - KSPCB",success,46,,2026-11-10T10:40:27.560029
+site_1558,Bengaluru,"Silk Board, Bengaluru - KSPCB",success,62,,2026-11-10T10:40:30.014821
+site_5392,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",no_data,0,API returned no records.,2026-11-10T10:40:32.609022
+site_5810,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",success,62,,2026-11-10T10:40:35.091344
+site_5113,Mumbai,"Borivali East, Mumbai - IITM",success,61,,2026-11-10T10:40:38.020853
+site_5400,Mumbai,"Borivali East, Mumbai - IITM",success,62,,2026-11-10T10:40:40.429907
+site_5960,Mumbai,"Byculla, Mumbai - BMC",success,62,,2026-11-10T10:40:42.821515
+site_5399,Mumbai,"Chakala-Andheri East, Mumbai - IITM",success,55,,2026-11-10T10:40:45.216294
+site_5811,Mumbai,"Chembur, Mumbai - MPCB",success,62,,2026-11-10T10:40:47.570729
+site_5107,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",success,62,,2026-11-10T10:40:49.983955
+site_5120,Mumbai,"Colaba, Mumbai - MPCB",success,59,,2026-11-10T10:40:52.491906
+site_5396,Mumbai,"Deonar, Mumbai - IITM",success,18,,2026-11-10T10:40:54.854984
+site_5964,Mumbai,"Ghatkopar, Mumbai - BMC",success,61,,2026-11-10T10:40:57.526524
+site_5412,Mumbai,"Kandivali East, Mumbai - MPCB",success,62,,2026-11-10T10:41:00.041412
+site_5962,Mumbai,"Kandivali West, Mumbai - BMC",success,48,,2026-11-10T10:41:02.613537
+site_5814,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",success,62,,2026-11-10T10:41:05.105343
+site_5397,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",success,62,,2026-11-10T10:41:07.808203
+site_5104,Mumbai,"Kurla, Mumbai - MPCB",success,62,,2026-11-10T10:41:10.357201
+site_5102,Mumbai,"Malad West, Mumbai - IITM",success,62,,2026-11-10T10:41:12.756892
+site_5402,Mumbai,"Malad West, Mumbai - IITM",success,50,,2026-11-10T10:41:15.642121
+site_5394,Mumbai,"Mazgaon, Mumbai - IITM",success,62,,2026-11-10T10:41:18.373407
+site_5807,Mumbai,"Mindspace-Malad West, Mumbai - MPCB",success,62,,2026-11-10T10:41:21.597431
+site_5413,Mumbai,"Mulund West, Mumbai - MPCB",success,61,,2026-11-10T10:41:24.149180
+site_5398,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",success,60,,2026-11-10T10:41:26.663161
+site_5112,Mumbai,"Powai, Mumbai - MPCB",success,58,,2026-11-10T10:41:29.149549
+site_5963,Mumbai,"Sewri, Mumbai - BMC",success,62,,2026-11-10T10:41:31.706874
+site_5961,Mumbai,"Shivaji Nagar, Mumbai - BMC",success,30,,2026-11-10T10:41:34.315132
+site_5403,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",success,44,,2026-11-10T10:41:36.916619
+site_5119,Mumbai,"Sion, Mumbai - MPCB",success,62,,2026-11-10T10:41:39.766333
+site_5106,Mumbai,"Vile Parle West, Mumbai - MPCB",success,62,,2026-11-10T10:41:42.343504
+site_5115,Mumbai,Worli Mumbai,success,62,,2026-11-10T10:41:44.751146
+site_5805,Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",success,58,,2026-11-10T10:41:47.346846
+site_5114,Mumbai,"Mahape, Navi Mumbai - MPCB",success,62,,2026-11-10T10:41:49.824840
+site_5103,Mumbai,"Nerul, Navi Mumbai - MPCB",success,62,,2026-11-10T10:41:52.389451
+site_5815,Mumbai,"Sanpada, Navi Mumbai - MPCB",success,62,,2026-11-10T10:41:55.038922
+site_5799,Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",success,62,,2026-11-10T10:41:57.419989
+site_5803,Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",success,58,,2026-11-10T10:41:59.906708
+site_1393,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",success,62,,2026-11-10T10:42:02.443138
+site_5725,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",success,62,,2026-11-10T10:42:04.923315
+site_134,Jaipur,"Police Commissionerate, Jaipur - RSPCB",success,62,,2026-11-10T10:42:07.323770
+site_5728,Jaipur,"RIICO Sitapura, Jaipur - RSPCB",success,62,,2026-11-10T10:42:09.959170
+site_5727,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",success,62,,2026-11-10T10:42:12.865053
+site_1396,Jaipur,"Shastri Nagar, Jaipur - RSPCB",success,62,,2026-11-10T10:42:15.286873
+site_199,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",success,62,,2026-11-10T10:42:17.850094
+site_262,Hyderabad,"Central University, Hyderabad - TSPCB",success,61,,2026-11-10T10:42:20.369882
+site_5596,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",success,60,,2026-11-10T10:42:23.228364
+site_251,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",success,62,,2026-11-10T10:42:25.848163
+site_275,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",no_data,0,API returned no records.,2026-11-10T10:42:28.293955
+site_5597,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",success,52,,2026-11-10T10:42:31.045781
+site_5604,Hyderabad,"Kokapet, Hyderabad - TSPCB",success,58,,2026-11-10T10:42:33.684026
+site_5599,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",success,62,,2026-11-10T10:42:36.801491
+site_5600,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",success,62,,2026-11-10T10:42:39.182477
+site_5595,Hyderabad,"New Malakpet, Hyderabad - TSPCB",success,58,,2026-11-10T10:42:41.748970
+site_5602,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",success,60,,2026-11-10T10:42:44.257127
+site_5598,Hyderabad,"Somajiguda, Hyderabad - TSPCB",success,50,,2026-11-10T10:42:47.117893
+site_298,Hyderabad,"Zoo Park, Hyderabad - TSPCB",success,62,,2026-11-10T10:42:50.174987

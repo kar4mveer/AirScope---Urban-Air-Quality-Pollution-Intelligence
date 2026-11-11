@@ -1,0 +1,9 @@
+selected_city,station_id,station_name,city_name,state_name,source,latitude,longitude,first_seen,last_seen,total_records,has_pm25,has_pm10,has_both_pm,overlaps_analysis_period,covers_full_period_by_station_dates,available_pollutants
+Bengaluru,site_165,"City Railway Station, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,12.9756843,77.5660749,2016-01-01T00:00:00,2025-09-01T23:00:00,332732,False,True,False,True,True,"CO, NO, NO2, NOx, PM10, SO2"
+Bengaluru,site_166,"Sanegurava Halli, Bengaluru - KSPCB",Bengaluru,Karnataka,cpcb_caaqm,12.990328,77.5431385,2016-01-01T00:00:00,2025-09-01T23:00:00,324667,False,True,False,True,True,"CO, NO, NO2, NOx, PM10, SO2"
+Mumbai,site_168,Bandra Mumbai,Mumbai,Maharashtra,cpcb_caaqm,19.053536,72.84643,2015-01-01T00:00:00,2021-12-24T12:00:00,531914,True,True,True,False,False,"Benzene, CO, Eth-Benzene, MP-Xylene, NO, NO2, NOx, Ozone, PM10, PM2.5, SO2, Toluene, Xylene"
+Mumbai,site_261,"Nerul, Navi Mumbai - MPCB",Navi Mumbai,Maharashtra,cpcb_caaqm,19.008751,73.01662,2009-08-17T10:00:00,2020-04-09T05:00:00,259194,True,True,True,False,False,"Benzene, CO, MP-Xylene, NO2, NOx, Ozone, PM10, PM2.5, SO2, Toluene"
+Hyderabad,site_294,"Sanathnagar, Hyderabad - TSPCB",Hyderabad,Telangana,cpcb_caaqm,17.4559458,78.4332152,2010-11-09T00:00:00,2025-09-01T23:00:00,958856,True,False,False,True,True,"Benzene, CO, NO, NO2, NOx, Ozone, PM2.5, SO2, Toluene, Xylene"
+Delhi,DS1010001,US Embassy - New Delhi,New Delhi,Delhi,us_embassy,28.63576,77.22445,2019-07-01T03:30:00,2026-03-27T23:30:00,57994,True,False,False,True,True,PM2.5
+Mumbai,DS1010004,US Embassy - Mumbai,Mumbai,Maharashtra,us_embassy,19.07283,72.88261,2019-07-01T00:30:00,2025-03-03T23:30:00,47349,True,False,False,True,True,PM2.5
+Hyderabad,DS1010005,US Embassy - Hyderabad,Hyderabad,Telangana,us_embassy,17.38405,78.45636,2019-07-01T00:30:00,2026-03-27T23:30:00,52517,True,False,False,True,True,PM2.5

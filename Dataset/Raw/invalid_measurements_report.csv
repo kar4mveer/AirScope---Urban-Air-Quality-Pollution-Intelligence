@@ -1,0 +1,7 @@
+check,count
+Negative mean values,0
+Negative minimum values,0
+Negative maximum values,0
+Non-positive observation counts,0
+Minimum greater than maximum,0
+Mean outside min-max range,4

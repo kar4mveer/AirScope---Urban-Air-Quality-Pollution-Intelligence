@@ -1,0 +1,106 @@
+selected_city,station_id,station_name,available_pollutants,has_both_pollutants
+Bengaluru,site_1553,"Bapuji Nagar, Bengaluru - KSPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_1554,"Hebbal, Bengaluru - KSPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_1555,"Hombegowda Nagar, Bengaluru - KSPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_1556,"Jayanagar 5th Block, Bengaluru - KSPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_1558,"Silk Board, Bengaluru - KSPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_162,"BTM Layout, Bengaluru - CPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_163,"Peenya, Bengaluru - CPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_5678,"RVCE-Mailasandra, Bengaluru - KSPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_5681,"Kasturi Nagar, Bengaluru - KSPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_5686,"Shivapura_Peenya, Bengaluru - KSPCB","['PM10', 'PM2.5']",True
+Bengaluru,site_5729,"Jigani, Bengaluru - KSPCB","['PM10', 'PM2.5']",True
+Delhi,site_103,"CRRI Mathura Road, Delhi - IMD","['PM10', 'PM2.5']",True
+Delhi,site_104,"Burari Crossing, Delhi - IMD","['PM10', 'PM2.5']",True
+Delhi,site_105,"North Campus, DU, Delhi - IMD","['PM10', 'PM2.5']",True
+Delhi,site_106,"IGI Airport (T3), Delhi - IMD","['PM10', 'PM2.5']",True
+Delhi,site_107,"Pusa, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_108,"Aya Nagar, Delhi - IMD","['PM10', 'PM2.5']",True
+Delhi,site_109,"Lodhi Road, Delhi - IMD","['PM10', 'PM2.5']",True
+Delhi,site_113,"Shadipur, Delhi - CPCB","['PM10', 'PM2.5']",True
+Delhi,site_114,"IHBAS, Dilshad Garden, Delhi - CPCB","['PM10', 'PM2.5']",True
+Delhi,site_115,"NSIT Dwarka, Delhi - CPCB","['PM10', 'PM2.5']",True
+Delhi,site_117,"ITO, Delhi - CPCB","['PM10', 'PM2.5']",True
+Delhi,site_118,"DTU, Delhi - CPCB","['PM10', 'PM2.5']",True
+Delhi,site_119,"Sirifort, Delhi - CPCB","['PM10', 'PM2.5']",True
+Delhi,site_122,"Mandir Marg, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_124,"R K Puram, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_125,"Punjabi Bagh, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1420,"Ashok Vihar, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1422,"Dwarka-Sector 8, Delhi - DPCC ","['PM10', 'PM2.5']",True
+Delhi,site_1423,"Jahangirpuri, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1426,"Narela, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1427,"Najafgarh, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1428,"Okhla Phase-2, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1429,"Nehru Nagar, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1430,"Rohini, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1431,"Patparganj, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1432,"Sonia Vihar, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1434,"Wazirpur, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1435,"Vivek Vihar, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1560,"Bawana, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1561,"Mundka, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1562,"Sri Aurobindo Marg, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_1563,"Pusa, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_301,"Anand Vihar, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_5024,"Alipur, Delhi - DPCC","['PM10', 'PM2.5']",True
+Delhi,site_5395,"Lodhi Road, Delhi - IMD","['PM10', 'PM2.5']",True
+Gurugram,site_146,"Vikas Sadan, Gurugram - HSPCB",['PM2.5'],False
+Gurugram,site_5025,"NISE Gwal Pahari, Gurugram - IMD","['PM10', 'PM2.5']",True
+Gurugram,site_5344,"Teri Gram, Gurugram - HSPCB","['PM10', 'PM2.5']",True
+Gurugram,site_5345,"Sector-51, Gurugram - HSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_199,"Bollaram Industrial Area, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_251,"ICRISAT Patancheru, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_262,"Central University, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_298,"Zoo Park, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_5595,"New Malakpet, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_5596,"ECIL Kapra, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_5597,"IITH Kandi, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_5598,"Somajiguda, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_5599,"Kompally Municipal Office, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_5600,"Nacharam_TSIIC IALA, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_5602,"Ramachandrapuram, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Hyderabad,site_5604,"Kokapet, Hyderabad - TSPCB","['PM10', 'PM2.5']",True
+Jaipur,site_134,"Police Commissionerate, Jaipur - RSPCB","['PM10', 'PM2.5']",True
+Jaipur,site_1393,"Adarsh Nagar, Jaipur - RSPCB","['PM10', 'PM2.5']",True
+Jaipur,site_1396,"Shastri Nagar, Jaipur - RSPCB","['PM10', 'PM2.5']",True
+Jaipur,site_5725,"Mansarovar Sector-12, Jaipur - RSPCB","['PM10', 'PM2.5']",True
+Jaipur,site_5727,"Sector-2 Murlipura, Jaipur - RSPCB","['PM10', 'PM2.5']",True
+Jaipur,site_5728,"RIICO Sitapura, Jaipur - RSPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5102,"Malad West, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5103,"Nerul, Navi Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5104,"Kurla, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5106,"Vile Parle West, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5107,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5112,"Powai, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5113,"Borivali East, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5114,"Mahape, Navi Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5115,Worli Mumbai,"['PM10', 'PM2.5']",True
+Mumbai,site_5119,"Sion, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5120,"Colaba, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5394,"Mazgaon, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5396,"Deonar, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5397,"Khindipada-Bhandup West, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5398,"Navy Nagar-Colaba, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5399,"Chakala-Andheri East, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5400,"Borivali East, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5402,"Malad West, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5403,"Siddharth Nagar-Worli, Mumbai - IITM","['PM10', 'PM2.5']",True
+Mumbai,site_5412,"Kandivali East, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5413,"Mulund West, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5799,"Sector-2E Kalamboli, Navi Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5803,"Tondare-Taloja, Navi Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5805,"Kopripada-Vashi, Navi Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5807,"Mindspace-Malad West, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5810,"Bandra Kurla Complex, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5811,"Chembur, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5814,"Kherwadi_Bandra East, Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5815,"Sanpada, Navi Mumbai - MPCB","['PM10', 'PM2.5']",True
+Mumbai,site_5960,"Byculla, Mumbai - BMC","['PM10', 'PM2.5']",True
+Mumbai,site_5961,"Shivaji Nagar, Mumbai - BMC","['PM10', 'PM2.5']",True
+Mumbai,site_5962,"Kandivali West, Mumbai - BMC","['PM10', 'PM2.5']",True
+Mumbai,site_5963,"Sewri, Mumbai - BMC","['PM10', 'PM2.5']",True
+Mumbai,site_5964,"Ghatkopar, Mumbai - BMC","['PM10', 'PM2.5']",True

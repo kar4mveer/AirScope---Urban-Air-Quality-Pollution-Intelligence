@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "rows": 15,
+        "truncated": false,
+        "max_rows": 10000,
+        "query_ms": 286
+    },
+    "data": [
+        {
+            "parameter_name": "PM2.5",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 554,
+            "n_rows": 17844093,
+            "first_seen": "2009-01-01T00:00:00",
+            "last_seen": "2026-03-27T23:30:00"
+        },
+        {
+            "parameter_name": "NOx",
+            "unit": "ppb",
+            "n_stations": 544,
+            "n_rows": 17506764,
+            "first_seen": "2009-01-01T00:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "NO2",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 549,
+            "n_rows": 17445236,
+            "first_seen": "2009-01-01T00:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "NO",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 543,
+            "n_rows": 17105758,
+            "first_seen": "2009-01-01T00:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "CO",
+            "unit": "mg/m\u00b3",
+            "n_stations": 546,
+            "n_rows": 16961824,
+            "first_seen": "2009-01-03T02:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "SO2",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 529,
+            "n_rows": 16722073,
+            "first_seen": "2009-01-01T00:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "PM10",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 545,
+            "n_rows": 16587252,
+            "first_seen": "2011-01-17T01:00:00",
+            "last_seen": "2025-09-01T23:00:00"
+        },
+        {
+            "parameter_name": "Ozone",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 530,
+            "n_rows": 16499316,
+            "first_seen": "2009-01-01T00:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "Benzene",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 491,
+            "n_rows": 14160901,
+            "first_seen": "2009-03-02T18:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "NH3",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 490,
+            "n_rows": 14043209,
+            "first_seen": "2009-01-01T01:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "Toluene",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 401,
+            "n_rows": 11247222,
+            "first_seen": "2009-03-02T18:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "MP-Xylene",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 382,
+            "n_rows": 7826459,
+            "first_seen": "2009-03-02T14:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "Eth-Benzene",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 389,
+            "n_rows": 7679725,
+            "first_seen": "2009-03-02T16:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "Xylene",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 157,
+            "n_rows": 4395985,
+            "first_seen": "2010-09-13T00:00:00",
+            "last_seen": "2024-12-31T23:00:00"
+        },
+        {
+            "parameter_name": "O_Xylene",
+            "unit": "\u00b5g/m\u00b3",
+            "n_stations": 39,
+            "n_rows": 496017,
+            "first_seen": "2019-01-01T00:00:00",
+            "last_seen": "2021-12-31T23:00:00"
+        }
+    ]
+}

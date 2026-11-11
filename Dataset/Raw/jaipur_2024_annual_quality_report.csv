@@ -1,0 +1,3 @@
+﻿year,station_id,pollutant,expected_days,records_received,unique_dates,missing_dates,total_observations,average_daily_mean
+2024,site_1393,PM2.5,366,366,366,0,8547,48.9687465188263
+2024,site_1393,PM10,366,366,366,0,8522,98.34372487309629
